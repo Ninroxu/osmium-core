@@ -29,6 +29,6 @@ Microsoft authentication uses OAuth 2.0 with Azure. See https://wiki.vg/Microsof
 
 LGPL-3.0
 
-#### Copyright
+### Copyright
 
 Thanks to Daniel Scalzi aka dscalzi for his core. You can find him here: https://github.com/dscalzi/helios-core.
