@@ -31,4 +31,4 @@ LGPL-3.0
 
 ### Copyright
 
-Thanks to Daniel Scalzi aka dscalzi for his core. You can find him here: https://github.com/dscalzi/helios-core.
+Thanks to Daniel Scalzi aka dscalzi for his core. You can find it here: https://github.com/dscalzi/helios-core.
